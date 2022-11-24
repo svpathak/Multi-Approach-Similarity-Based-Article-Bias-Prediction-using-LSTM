@@ -1,9 +1,5 @@
 # Multi-Approach-Similarity-Based-Article-Bias-Prediction-using-LSTM
     
-============================================================
-======                 README.txt                    =======
-============================================================
-
 The python version used is v3.8.8. Other libraries are mentioned in requirements.txt.
 It is to be noted that some additional libraries may be required to be intsalled which comes with the libraries mentioned in requiretments.txt.
 For example: torchvision that comes with torch, etc. Howveer, all efforts are made to mention all relevant libraries.
