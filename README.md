@@ -29,6 +29,6 @@ It was later downloaded as .py files.
 
 Steps to be followed to run the code from terminal:
 
->> python filename.py
+\>\> python filename.py
 
 ============================================================
